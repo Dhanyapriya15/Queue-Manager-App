@@ -1,0 +1,1 @@
+Frontend Vite app goes here.
